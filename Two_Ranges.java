@@ -28,5 +28,6 @@ class Two_Ranges
 		  System.out.println(count); 
 		    
 		}
+        sc.close();
 	}
 }
